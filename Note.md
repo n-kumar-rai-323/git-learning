@@ -5,4 +5,6 @@ Step 1
 
 Step 2
 => git status
-=> git init 
+=> git init or git add index.js __ for single file 
+=> git add .
+=> (use "git rm --cached <file>..." to unstage)
