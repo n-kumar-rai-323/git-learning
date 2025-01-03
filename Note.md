@@ -8,3 +8,4 @@ Step 2
 => git init or git add index.js __ for single file 
 => git add .
 => (use "git rm --cached <file>..." to unstage)
+=> git log  or git log --oneline
